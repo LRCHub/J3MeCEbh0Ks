@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Baby Boy",
+  "base_artist": "Me & My",
+  "createdAt": "2025-12-14T17:07:40.661986Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Baby Boy",
+      "artist": "Me & My",
+      "has_synced": true,
+      "path": "select/01_Baby_Boy_Me_&_My.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Baby Boy",
+      "artist": "Whigfield",
+      "has_synced": false,
+      "path": "select/02_Baby_Boy_Whigfield.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Baby Boy",
+      "artist": "Thea",
+      "has_synced": true,
+      "path": "select/03_Baby_Boy_Thea.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bonus Track: Thea - Baby Boy",
+      "artist": "Massive Attack",
+      "has_synced": false,
+      "path": "select/04_Bonus_Track__Thea_-_Baby_Boy_Massive_Attack.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Baby Boy (by Thea)",
+      "artist": "Massive Attack",
+      "has_synced": false,
+      "path": "select/05_Baby_Boy_(by_Thea)_Massive_Attack.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Baby Boy",
+      "artist": "Childish Gambino",
+      "has_synced": true,
+      "path": "select/06_Baby_Boy_Childish_Gambino.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Baby Boy",
+      "artist": "Kevin Abstract",
+      "has_synced": true,
+      "path": "select/07_Baby_Boy_Kevin_Abstract.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Baby Boy (feat. Sean Paul)",
+      "artist": "Beyoncé feat. Sean Paul",
+      "has_synced": true,
+      "path": "select/08_Baby_Boy_(feat._Sean_Paul)_Beyoncé_feat._Sean_Paul.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Baby Boy (Featuring Sean Paul)",
+      "artist": "Beyoncé",
+      "has_synced": true,
+      "path": "select/09_Baby_Boy_(Featuring_Sean_Paul)_Beyoncé.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Baby Boy (feat. Sean Paul)",
+      "artist": "Beyoncé",
+      "has_synced": true,
+      "path": "select/10_Baby_Boy_(feat._Sean_Paul)_Beyoncé.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sweet Little Baby Boy",
+      "artist": "James Brown",
+      "has_synced": false,
+      "path": "select/11_Sweet_Little_Baby_Boy_James_Brown.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Baby Boy",
+      "artist": "Status Quo",
+      "has_synced": true,
+      "path": "select/12_Baby_Boy_Status_Quo.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Baby Boy",
+      "artist": "Childish Gambino",
+      "has_synced": true,
+      "path": "select/13_Baby_Boy_Childish_Gambino.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Baby Boy (feat. Beyoncé )",
+      "artist": "Sean Paul feat. Beyoncé",
+      "has_synced": true,
+      "path": "select/14_Baby_Boy_(feat._Beyoncé_)_Sean_Paul_feat._Beyoncé.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Baby Boy",
+      "artist": "Sean Paul",
+      "has_synced": true,
+      "path": "select/15_Baby_Boy_Sean_Paul.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Baby Boy (Ft. Beyonce)",
+      "artist": "Sean Paul",
+      "has_synced": true,
+      "path": "select/16_Baby_Boy_(Ft._Beyonce)_Sean_Paul.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Baby Boy",
+      "artist": "Me & My",
+      "has_synced": false,
+      "path": "select/pl_01_Baby_Boy_Me_&_My.txt"
+    }
+  ]
+}
