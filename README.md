@@ -1,0 +1,54 @@
+# Me & My – Baby Boy
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Ba-ba-ba-ba-ba-ba-da-ba-da
+He's my baby
+Ba-ba-ba-ba-ba-da-ba-da
+My little baby boy
+Ba-ba-ba-ba-ba-ba-da-ba-da
+He's my only
+Ba-ba-ba-ba-ba-da-ba-da
+My little baby boy
+[Chorus:]
+Ba-ba-ba-ba-ba-ba-da-ba-da
+Ba-ba-ba-ba-yeah-i-yeah-i
+Yeah-ba-ba-ba-ba-ba-da-ba-da
+I'm in love with my baby boy
+Ba-ba-ba-ba-ba-ba-da-ba-da
+Ba-ba-ba-ba-yeah-i-yeah-i
+Yeah-ba-ba-ba-ba-ba-da-ba-da
+I'm in love with my baby boy
+My boy baby, my baby boy
+He is my shoop-shoop-i-dub
+My little dub-dub-i-dub
+I want him close to me every night
+And I just hope and pray
+My baby boy will stay
+He's my baby boy,
+And I love him
+He's my only toy, my little baby boy
+He's my baby boy, and I need him
+He's my only toy, my little baby boy
+[Chorus:]
+Some people tell me he's not my kind
+I don't care what they say
+I love him anyway
+My boy baby was hard ti find
+That's why I hold on strong
+And nothing can go wrong, no
+He's my baby boy,
+And I love him
+He's my only toy, my little baby boy
+He's my baby boy, and I need him
+He's my only toy, my little baby boy
+[Chorus:]
+Break
+[Chorus:]
+Shu-bi-do-bah
+Shu-bi-do-bah
+Shu-bi-do-bah
+Shu-bi-do-bah
+[Chorus:]
+```
